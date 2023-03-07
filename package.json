@@ -1,6 +1,6 @@
 {
   "name": "weaver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Weaver clone built with Svelte & TypeScript",
   "type": "module",
   "private": true,
