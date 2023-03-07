@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ollyrowe/weaver/compare/v1.0.1...v1.1.0) (2023-03-07)
+
+
+### Features
+
+* update logo and manifest ([928fe49](https://github.com/ollyrowe/weaver/commit/928fe49c35b9a332a9107e3d39a513773fcc93ec))
+
 ## [1.0.1](https://github.com/ollyrowe/weaver/compare/v1.0.0...v1.0.1) (2023-03-07)
 
 
