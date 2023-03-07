@@ -1,0 +1,1426 @@
+[
+  {
+    "firstWord": "rain",
+    "secondWord": "snow",
+    "optimalScore": 6,
+    "optimalPath": ["rain", "cain", "chin", "chon", "chow", "show", "snow"]
+  },
+  {
+    "firstWord": "type",
+    "secondWord": "word",
+    "optimalScore": 4,
+    "optimalPath": ["type", "tope", "tore", "wore", "word"]
+  },
+  {
+    "firstWord": "open",
+    "secondWord": "shut",
+    "optimalScore": 6,
+    "optimalPath": ["open", "oped", "ohed", "shed", "shad", "shat", "shut"]
+  },
+  {
+    "firstWord": "ball",
+    "secondWord": "cube",
+    "optimalScore": 5,
+    "optimalPath": ["ball", "bale", "bake", "cake", "cuke", "cube"]
+  },
+  {
+    "firstWord": "rock",
+    "secondWord": "dust",
+    "optimalScore": 4,
+    "optimalPath": ["rock", "dock", "duck", "duct", "dust"]
+  },
+  {
+    "firstWord": "poor",
+    "secondWord": "rich",
+    "optimalScore": 6,
+    "optimalPath": ["poor", "boor", "book", "bock", "rock", "rick", "rich"]
+  },
+  {
+    "firstWord": "monk",
+    "secondWord": "pray",
+    "optimalScore": 6,
+    "optimalPath": ["monk", "mons", "moas", "boas", "bras", "bray", "pray"]
+  },
+  {
+    "firstWord": "beer",
+    "secondWord": "wine",
+    "optimalScore": 5,
+    "optimalPath": ["beer", "bees", "bens", "bene", "bine", "wine"]
+  },
+  {
+    "firstWord": "hide",
+    "secondWord": "seek",
+    "optimalScore": 6,
+    "optimalPath": ["hide", "bide", "bids", "beds", "bees", "sees", "seek"]
+  },
+  {
+    "firstWord": "tree",
+    "secondWord": "bark",
+    "optimalScore": 5,
+    "optimalPath": ["tree", "tyee", "tyre", "byre", "bare", "bark"]
+  },
+  {
+    "firstWord": "taco",
+    "secondWord": "meat",
+    "optimalScore": 6,
+    "optimalPath": ["taco", "tace", "mace", "male", "malt", "melt", "meat"]
+  },
+  {
+    "firstWord": "slow",
+    "secondWord": "poke",
+    "optimalScore": 6,
+    "optimalPath": ["slow", "plow", "plod", "pood", "pond", "pone", "poke"]
+  },
+  {
+    "firstWord": "door",
+    "secondWord": "jamb",
+    "optimalScore": 6,
+    "optimalPath": ["door", "doer", "does", "doms", "dams", "jams", "jamb"]
+  },
+  {
+    "firstWord": "text",
+    "secondWord": "call",
+    "optimalScore": 5,
+    "optimalPath": ["text", "teat", "teal", "tell", "cell", "call"]
+  },
+  {
+    "firstWord": "mind",
+    "secondWord": "soul",
+    "optimalScore": 6,
+    "optimalPath": ["mind", "bind", "bins", "sins", "sons", "sous", "soul"]
+  },
+  {
+    "firstWord": "lose",
+    "secondWord": "find",
+    "optimalScore": 4,
+    "optimalPath": ["lose", "lone", "line", "fine", "find"]
+  },
+  {
+    "firstWord": "gala",
+    "secondWord": "fete",
+    "optimalScore": 4,
+    "optimalPath": ["gala", "gale", "gate", "fate", "fete"]
+  },
+  {
+    "firstWord": "flat",
+    "secondWord": "tire",
+    "optimalScore": 6,
+    "optimalPath": ["flat", "blat", "boat", "bort", "bore", "tore", "tire"]
+  },
+  {
+    "firstWord": "pork",
+    "secondWord": "chop",
+    "optimalScore": 4,
+    "optimalPath": ["pork", "cork", "cook", "coop", "chop"]
+  },
+  {
+    "firstWord": "pink",
+    "secondWord": "blue",
+    "optimalScore": 7,
+    "optimalPath": [
+      "pink",
+      "fink",
+      "fins",
+      "fens",
+      "feus",
+      "flus",
+      "flue",
+      "blue"
+    ]
+  },
+  {
+    "firstWord": "jail",
+    "secondWord": "free",
+    "optimalScore": 6,
+    "optimalPath": ["jail", "bail", "bait", "brit", "brie", "bree", "free"]
+  },
+  {
+    "firstWord": "frog",
+    "secondWord": "toad",
+    "optimalScore": 4,
+    "optimalPath": ["frog", "trog", "trod", "trad", "toad"]
+  },
+  {
+    "firstWord": "goof",
+    "secondWord": "ball",
+    "optimalScore": 5,
+    "optimalPath": ["goof", "golf", "gold", "bold", "bald", "ball"]
+  },
+  {
+    "firstWord": "cole",
+    "secondWord": "slaw",
+    "optimalScore": 6,
+    "optimalPath": ["cole", "bole", "bolt", "boat", "blat", "blaw", "slaw"]
+  },
+  {
+    "firstWord": "dish",
+    "secondWord": "bowl",
+    "optimalScore": 5,
+    "optimalPath": ["dish", "diss", "doss", "boss", "bows", "bowl"]
+  },
+  {
+    "firstWord": "bath",
+    "secondWord": "soap",
+    "optimalScore": 6,
+    "optimalPath": ["bath", "bach", "back", "bock", "sock", "soak", "soap"]
+  },
+  {
+    "firstWord": "wild",
+    "secondWord": "tame",
+    "optimalScore": 4,
+    "optimalPath": ["wild", "wile", "tile", "tale", "tame"]
+  },
+  {
+    "firstWord": "life",
+    "secondWord": "boat",
+    "optimalScore": 5,
+    "optimalPath": ["life", "lift", "loft", "coft", "coat", "boat"]
+  },
+  {
+    "firstWord": "good",
+    "secondWord": "luck",
+    "optimalScore": 5,
+    "optimalPath": ["good", "goof", "loof", "look", "lock", "luck"]
+  },
+  {
+    "firstWord": "papa",
+    "secondWord": "bear",
+    "optimalScore": 5,
+    "optimalPath": ["papa", "paps", "peps", "peas", "pear", "bear"]
+  },
+  {
+    "firstWord": "thin",
+    "secondWord": "mint",
+    "optimalScore": 6,
+    "optimalPath": ["thin", "than", "that", "teat", "tent", "tint", "mint"]
+  },
+  {
+    "firstWord": "what",
+    "secondWord": "ever",
+    "optimalScore": 7,
+    "optimalPath": [
+      "what",
+      "that",
+      "thae",
+      "thee",
+      "tyee",
+      "tyer",
+      "eyer",
+      "ever"
+    ]
+  },
+  {
+    "firstWord": "slow",
+    "secondWord": "down",
+    "optimalScore": 5,
+    "optimalPath": ["slow", "slot", "soot", "soon", "sown", "down"]
+  },
+  {
+    "firstWord": "hush",
+    "secondWord": "yell",
+    "optimalScore": 5,
+    "optimalPath": ["hush", "husk", "hulk", "hull", "hell", "yell"]
+  },
+  {
+    "firstWord": "rock",
+    "secondWord": "sand",
+    "optimalScore": 4,
+    "optimalPath": ["rock", "rack", "rank", "rand", "sand"]
+  },
+  {
+    "firstWord": "fish",
+    "secondWord": "hook",
+    "optimalScore": 5,
+    "optimalPath": ["fish", "fist", "hist", "host", "hoot", "hook"]
+  },
+  {
+    "firstWord": "solo",
+    "secondWord": "team",
+    "optimalScore": 5,
+    "optimalPath": ["solo", "sols", "sels", "seas", "seam", "team"]
+  },
+  {
+    "firstWord": "town",
+    "secondWord": "city",
+    "optimalScore": 6,
+    "optimalPath": ["town", "torn", "corn", "core", "cire", "cite", "city"]
+  },
+  {
+    "firstWord": "atom",
+    "secondWord": "cell",
+    "optimalScore": 7,
+    "optimalPath": [
+      "atom",
+      "atop",
+      "stop",
+      "step",
+      "seep",
+      "seel",
+      "sell",
+      "cell"
+    ]
+  },
+  {
+    "firstWord": "punt",
+    "secondWord": "kick",
+    "optimalScore": 4,
+    "optimalPath": ["punt", "pint", "pink", "kink", "kick"]
+  },
+  {
+    "firstWord": "camp",
+    "secondWord": "fire",
+    "optimalScore": 4,
+    "optimalPath": ["camp", "came", "care", "cire", "fire"]
+  },
+  {
+    "firstWord": "lies",
+    "secondWord": "fact",
+    "optimalScore": 5,
+    "optimalPath": ["lies", "pies", "pics", "pacs", "pact", "fact"]
+  },
+  {
+    "firstWord": "peat",
+    "secondWord": "moss",
+    "optimalScore": 4,
+    "optimalPath": ["peat", "meat", "moat", "moas", "moss"]
+  },
+  {
+    "firstWord": "fool",
+    "secondWord": "joke",
+    "optimalScore": 5,
+    "optimalPath": ["fool", "fowl", "howl", "howe", "hoke", "joke"]
+  },
+  {
+    "firstWord": "free",
+    "secondWord": "love",
+    "optimalScore": 6,
+    "optimalPath": ["free", "tree", "tyee", "tyne", "tone", "lone", "love"]
+  },
+  {
+    "firstWord": "home",
+    "secondWord": "brew",
+    "optimalScore": 7,
+    "optimalPath": [
+      "home",
+      "come",
+      "cole",
+      "cold",
+      "coed",
+      "cred",
+      "bred",
+      "brew"
+    ]
+  },
+  {
+    "firstWord": "soft",
+    "secondWord": "firm",
+    "optimalScore": 4,
+    "optimalPath": ["soft", "sort", "fort", "form", "firm"]
+  },
+  {
+    "firstWord": "head",
+    "secondWord": "foot",
+    "optimalScore": 5,
+    "optimalPath": ["head", "bead", "beat", "boat", "boot", "foot"]
+  },
+  {
+    "firstWord": "full",
+    "secondWord": "moon",
+    "optimalScore": 4,
+    "optimalPath": ["full", "mull", "moll", "mool", "moon"]
+  },
+  {
+    "firstWord": "slip",
+    "secondWord": "fall",
+    "optimalScore": 5,
+    "optimalPath": ["slip", "flip", "flir", "fair", "fail", "fall"]
+  },
+  {
+    "firstWord": "home",
+    "secondWord": "sick",
+    "optimalScore": 5,
+    "optimalPath": ["home", "dome", "dime", "dice", "dick", "sick"]
+  },
+  {
+    "firstWord": "palm",
+    "secondWord": "tree",
+    "optimalScore": 6,
+    "optimalPath": ["palm", "pale", "pare", "pyre", "tyre", "tyee", "tree"]
+  },
+  {
+    "firstWord": "over",
+    "secondWord": "come",
+    "optimalScore": 7,
+    "optimalPath": [
+      "over",
+      "oyer",
+      "dyer",
+      "doer",
+      "does",
+      "doms",
+      "dome",
+      "come"
+    ]
+  },
+  {
+    "firstWord": "cows",
+    "secondWord": "milk",
+    "optimalScore": 4,
+    "optimalPath": ["cows", "cols", "mols", "mils", "milk"]
+  },
+  {
+    "firstWord": "neck",
+    "secondWord": "lace",
+    "optimalScore": 4,
+    "optimalPath": ["neck", "beck", "back", "lack", "lace"]
+  },
+  {
+    "firstWord": "news",
+    "secondWord": "cast",
+    "optimalScore": 5,
+    "optimalPath": ["news", "mews", "maws", "mass", "mast", "cast"]
+  },
+  {
+    "firstWord": "page",
+    "secondWord": "book",
+    "optimalScore": 5,
+    "optimalPath": ["page", "pace", "pack", "back", "bock", "book"]
+  },
+  {
+    "firstWord": "pray",
+    "secondWord": "amen",
+    "optimalScore": 7,
+    "optimalPath": [
+      "pray",
+      "gray",
+      "grad",
+      "grid",
+      "arid",
+      "amid",
+      "amin",
+      "amen"
+    ]
+  },
+  {
+    "firstWord": "pawn",
+    "secondWord": "king",
+    "optimalScore": 5,
+    "optimalPath": ["pawn", "paws", "pans", "pang", "ping", "king"]
+  },
+  {
+    "firstWord": "hide",
+    "secondWord": "eggs",
+    "optimalScore": 6,
+    "optimalPath": ["hide", "aide", "aids", "ands", "ends", "engs", "eggs"]
+  },
+  {
+    "firstWord": "less",
+    "secondWord": "more",
+    "optimalScore": 4,
+    "optimalPath": ["less", "loss", "lose", "lore", "more"]
+  },
+  {
+    "firstWord": "soul",
+    "secondWord": "mate",
+    "optimalScore": 5,
+    "optimalPath": ["soul", "saul", "maul", "mall", "male", "mate"]
+  },
+  {
+    "firstWord": "moon",
+    "secondWord": "star",
+    "optimalScore": 5,
+    "optimalPath": ["moon", "boon", "boor", "boar", "soar", "star"]
+  },
+  {
+    "firstWord": "tiny",
+    "secondWord": "huge",
+    "optimalScore": 5,
+    "optimalPath": ["tiny", "liny", "line", "lune", "luge", "huge"]
+  },
+  {
+    "firstWord": "root",
+    "secondWord": "tree",
+    "optimalScore": 4,
+    "optimalPath": ["root", "toot", "trot", "tret", "tree"]
+  },
+  {
+    "firstWord": "four",
+    "secondWord": "wine",
+    "optimalScore": 6,
+    "optimalPath": ["four", "dour", "dorr", "dore", "dire", "dine", "wine"]
+  },
+  {
+    "firstWord": "long",
+    "secondWord": "shot",
+    "optimalScore": 6,
+    "optimalPath": ["long", "bong", "bonk", "book", "boot", "soot", "shot"]
+  },
+  {
+    "firstWord": "hold",
+    "secondWord": "fast",
+    "optimalScore": 4,
+    "optimalPath": ["hold", "holt", "halt", "hast", "fast"]
+  },
+  {
+    "firstWord": "time",
+    "secondWord": "warp",
+    "optimalScore": 4,
+    "optimalPath": ["time", "tame", "tamp", "tarp", "warp"]
+  },
+  {
+    "firstWord": "tree",
+    "secondWord": "fort",
+    "optimalScore": 5,
+    "optimalPath": ["tree", "tres", "toes", "tors", "tort", "fort"]
+  },
+  {
+    "firstWord": "bird",
+    "secondWord": "song",
+    "optimalScore": 4,
+    "optimalPath": ["bird", "bind", "bond", "bong", "song"]
+  },
+  {
+    "firstWord": "left",
+    "secondWord": "turn",
+    "optimalScore": 5,
+    "optimalPath": ["left", "loft", "toft", "tort", "torn", "turn"]
+  },
+  {
+    "firstWord": "sink",
+    "secondWord": "swim",
+    "optimalScore": 6,
+    "optimalPath": ["sink", "sank", "sand", "said", "skid", "skim", "swim"]
+  },
+  {
+    "firstWord": "game",
+    "secondWord": "over",
+    "optimalScore": 7,
+    "optimalPath": [
+      "game",
+      "gams",
+      "gaes",
+      "kaes",
+      "kyes",
+      "oyes",
+      "oyer",
+      "over"
+    ]
+  },
+  {
+    "firstWord": "lost",
+    "secondWord": "soul",
+    "optimalScore": 4,
+    "optimalPath": ["lost", "lout", "loup", "soup", "soul"]
+  },
+  {
+    "firstWord": "mind",
+    "secondWord": "game",
+    "optimalScore": 4,
+    "optimalPath": ["mind", "mine", "mane", "gane", "game"]
+  },
+  {
+    "firstWord": "shoe",
+    "secondWord": "sock",
+    "optimalScore": 4,
+    "optimalPath": ["shoe", "shot", "soot", "sook", "sock"]
+  },
+  {
+    "firstWord": "long",
+    "secondWord": "haul",
+    "optimalScore": 5,
+    "optimalPath": ["long", "hong", "hang", "hant", "haut", "haul"]
+  },
+  {
+    "firstWord": "move",
+    "secondWord": "fast",
+    "optimalScore": 5,
+    "optimalPath": ["move", "cove", "cave", "case", "cast", "fast"]
+  },
+  {
+    "firstWord": "wolf",
+    "secondWord": "pack",
+    "optimalScore": 6,
+    "optimalPath": ["wolf", "rolf", "role", "pole", "pale", "pace", "pack"]
+  },
+  {
+    "firstWord": "four",
+    "secondWord": "five",
+    "optimalScore": 6,
+    "optimalPath": ["four", "dour", "dorr", "dore", "dire", "dive", "five"]
+  },
+  {
+    "firstWord": "bank",
+    "secondWord": "roll",
+    "optimalScore": 4,
+    "optimalPath": ["bank", "balk", "ball", "boll", "roll"]
+  },
+  {
+    "firstWord": "junk",
+    "secondWord": "food",
+    "optimalScore": 4,
+    "optimalPath": ["junk", "funk", "fund", "fond", "food"]
+  },
+  {
+    "firstWord": "nice",
+    "secondWord": "easy",
+    "optimalScore": 5,
+    "optimalPath": ["nice", "bice", "bise", "base", "ease", "easy"]
+  },
+  {
+    "firstWord": "lock",
+    "secondWord": "keys",
+    "optimalScore": 5,
+    "optimalPath": ["lock", "lack", "lacs", "lays", "kays", "keys"]
+  },
+  {
+    "firstWord": "film",
+    "secondWord": "noir",
+    "optimalScore": 6,
+    "optimalPath": ["film", "fill", "bill", "boll", "boil", "noil", "noir"]
+  },
+  {
+    "firstWord": "talk",
+    "secondWord": "chat",
+    "optimalScore": 6,
+    "optimalPath": ["talk", "calk", "cask", "cast", "cost", "coat", "chat"]
+  },
+  {
+    "firstWord": "milk",
+    "secondWord": "eggs",
+    "optimalScore": 7,
+    "optimalPath": [
+      "milk",
+      "mils",
+      "ails",
+      "aids",
+      "ands",
+      "ends",
+      "engs",
+      "eggs"
+    ]
+  },
+  {
+    "firstWord": "rise",
+    "secondWord": "fall",
+    "optimalScore": 4,
+    "optimalPath": ["rise", "rile", "file", "fill", "fall"]
+  },
+  {
+    "firstWord": "give",
+    "secondWord": "take",
+    "optimalScore": 4,
+    "optimalPath": ["give", "dive", "dike", "tike", "take"]
+  },
+  {
+    "firstWord": "foot",
+    "secondWord": "mile",
+    "optimalScore": 4,
+    "optimalPath": ["foot", "moot", "molt", "milt", "mile"]
+  },
+  {
+    "firstWord": "team",
+    "secondWord": "mate",
+    "optimalScore": 5,
+    "optimalPath": ["team", "teas", "tets", "tats", "mats", "mate"]
+  },
+  {
+    "firstWord": "surf",
+    "secondWord": "wave",
+    "optimalScore": 5,
+    "optimalPath": ["surf", "curf", "cure", "care", "cave", "wave"]
+  },
+  {
+    "firstWord": "quiz",
+    "secondWord": "test",
+    "optimalScore": 6,
+    "optimalPath": ["quiz", "quit", "duit", "doit", "dost", "tost", "test"]
+  },
+  {
+    "firstWord": "high",
+    "secondWord": "jump",
+    "optimalScore": 7,
+    "optimalPath": [
+      "high",
+      "sigh",
+      "sinh",
+      "sins",
+      "sims",
+      "simp",
+      "jimp",
+      "jump"
+    ]
+  },
+  {
+    "firstWord": "fail",
+    "secondWord": "pass",
+    "optimalScore": 4,
+    "optimalPath": ["fail", "fall", "pall", "pals", "pass"]
+  },
+  {
+    "firstWord": "lion",
+    "secondWord": "tame",
+    "optimalScore": 4,
+    "optimalPath": ["lion", "limn", "lime", "lame", "tame"]
+  },
+  {
+    "firstWord": "note",
+    "secondWord": "book",
+    "optimalScore": 4,
+    "optimalPath": ["note", "none", "bone", "bonk", "book"]
+  },
+  {
+    "firstWord": "fist",
+    "secondWord": "bump",
+    "optimalScore": 5,
+    "optimalPath": ["fist", "list", "lisp", "limp", "lump", "bump"]
+  },
+  {
+    "firstWord": "sumo",
+    "secondWord": "ring",
+    "optimalScore": 5,
+    "optimalPath": ["sumo", "sums", "rums", "rims", "rins", "ring"]
+  },
+  {
+    "firstWord": "sunk",
+    "secondWord": "ship",
+    "optimalScore": 6,
+    "optimalPath": ["sunk", "dunk", "dunt", "duit", "suit", "shit", "ship"]
+  },
+  {
+    "firstWord": "nose",
+    "secondWord": "swab",
+    "optimalScore": 7,
+    "optimalPath": [
+      "nose",
+      "hose",
+      "host",
+      "hest",
+      "heat",
+      "seat",
+      "swat",
+      "swab"
+    ]
+  },
+  {
+    "firstWord": "done",
+    "secondWord": "deal",
+    "optimalScore": 4,
+    "optimalPath": ["done", "dene", "dele", "dell", "deal"]
+  },
+  {
+    "firstWord": "wolf",
+    "secondWord": "howl",
+    "optimalScore": 4,
+    "optimalPath": ["wolf", "woof", "hoof", "howf", "howl"]
+  },
+  {
+    "firstWord": "bear",
+    "secondWord": "claw",
+    "optimalScore": 4,
+    "optimalPath": ["bear", "beam", "blam", "blaw", "claw"]
+  },
+  {
+    "firstWord": "pump",
+    "secondWord": "fake",
+    "optimalScore": 5,
+    "optimalPath": ["pump", "dump", "damp", "dame", "fame", "fake"]
+  },
+  {
+    "firstWord": "code",
+    "secondWord": "hack",
+    "optimalScore": 5,
+    "optimalPath": ["code", "cade", "care", "cark", "hark", "hack"]
+  },
+  {
+    "firstWord": "gosh",
+    "secondWord": "darn",
+    "optimalScore": 6,
+    "optimalPath": ["gosh", "bosh", "bash", "base", "bare", "barn", "darn"]
+  },
+  {
+    "firstWord": "kilo",
+    "secondWord": "gram",
+    "optimalScore": 7,
+    "optimalPath": [
+      "kilo",
+      "kill",
+      "gill",
+      "gild",
+      "gold",
+      "goad",
+      "grad",
+      "gram"
+    ]
+  },
+  {
+    "firstWord": "coal",
+    "secondWord": "fire",
+    "optimalScore": 5,
+    "optimalPath": ["coal", "foal", "foam", "form", "firm", "fire"]
+  },
+  {
+    "firstWord": "jump",
+    "secondWord": "rope",
+    "optimalScore": 5,
+    "optimalPath": ["jump", "pump", "pomp", "pome", "pope", "rope"]
+  },
+  {
+    "firstWord": "lose",
+    "secondWord": "gain",
+    "optimalScore": 5,
+    "optimalPath": ["lose", "lase", "last", "gast", "gait", "gain"]
+  },
+  {
+    "firstWord": "nick",
+    "secondWord": "name",
+    "optimalScore": 5,
+    "optimalPath": ["nick", "dick", "dice", "dace", "dame", "name"]
+  },
+  {
+    "firstWord": "farm",
+    "secondWord": "oink",
+    "optimalScore": 5,
+    "optimalPath": ["farm", "fare", "fane", "fine", "fink", "oink"]
+  },
+  {
+    "firstWord": "door",
+    "secondWord": "knob",
+    "optimalScore": 6,
+    "optimalPath": ["door", "boor", "boob", "blob", "slob", "snob", "knob"]
+  },
+  {
+    "firstWord": "mint",
+    "secondWord": "chip",
+    "optimalScore": 7,
+    "optimalPath": [
+      "mint",
+      "dint",
+      "dunt",
+      "duit",
+      "suit",
+      "shit",
+      "chit",
+      "chip"
+    ]
+  },
+  {
+    "firstWord": "head",
+    "secondWord": "toes",
+    "optimalScore": 4,
+    "optimalPath": ["head", "heed", "hoed", "hoes", "toes"]
+  },
+  {
+    "firstWord": "duck",
+    "secondWord": "pond",
+    "optimalScore": 5,
+    "optimalPath": ["duck", "buck", "bock", "bonk", "bond", "pond"]
+  },
+  {
+    "firstWord": "sail",
+    "secondWord": "boat",
+    "optimalScore": 5,
+    "optimalPath": ["sail", "bail", "baal", "baas", "boas", "boat"]
+  },
+  {
+    "firstWord": "beta",
+    "secondWord": "test",
+    "optimalScore": 5,
+    "optimalPath": ["beta", "bets", "bees", "beet", "best", "test"]
+  },
+  {
+    "firstWord": "tilt",
+    "secondWord": "spin",
+    "optimalScore": 6,
+    "optimalPath": ["tilt", "silt", "salt", "sall", "sail", "sain", "spin"]
+  },
+  {
+    "firstWord": "left",
+    "secondWord": "over",
+    "optimalScore": 6,
+    "optimalPath": ["left", "deft", "deet", "deer", "dyer", "oyer", "over"]
+  },
+  {
+    "firstWord": "acid",
+    "secondWord": "base",
+    "optimalScore": 7,
+    "optimalPath": [
+      "acid",
+      "arid",
+      "grid",
+      "grit",
+      "brit",
+      "bait",
+      "bast",
+      "base"
+    ]
+  },
+  {
+    "firstWord": "long",
+    "secondWord": "time",
+    "optimalScore": 4,
+    "optimalPath": ["long", "ling", "line", "lime", "time"]
+  },
+  {
+    "firstWord": "solo",
+    "secondWord": "duet",
+    "optimalScore": 5,
+    "optimalPath": ["solo", "sols", "dols", "does", "dues", "duet"]
+  },
+  {
+    "firstWord": "born",
+    "secondWord": "free",
+    "optimalScore": 6,
+    "optimalPath": ["born", "bore", "byre", "tyre", "tyee", "tree", "free"]
+  },
+  {
+    "firstWord": "show",
+    "secondWord": "tell",
+    "optimalScore": 6,
+    "optimalPath": ["show", "shaw", "sham", "seam", "seal", "sell", "tell"]
+  },
+  {
+    "firstWord": "slow",
+    "secondWord": "fast",
+    "optimalScore": 6,
+    "optimalPath": ["slow", "flow", "flaw", "flat", "feat", "fest", "fast"]
+  },
+  {
+    "firstWord": "skim",
+    "secondWord": "milk",
+    "optimalScore": 6,
+    "optimalPath": ["skim", "skis", "seis", "sels", "mels", "mils", "milk"]
+  },
+  {
+    "firstWord": "null",
+    "secondWord": "void",
+    "optimalScore": 7,
+    "optimalPath": [
+      "null",
+      "cull",
+      "curl",
+      "curd",
+      "cord",
+      "lord",
+      "loid",
+      "void"
+    ]
+  },
+  {
+    "firstWord": "oust",
+    "secondWord": "outs",
+    "optimalScore": 4,
+    "optimalPath": ["oust", "bust", "buss", "buts", "outs"]
+  },
+  {
+    "firstWord": "zone",
+    "secondWord": "mark",
+    "optimalScore": 5,
+    "optimalPath": ["zone", "bone", "bane", "bank", "bark", "mark"]
+  },
+  {
+    "firstWord": "rack",
+    "secondWord": "city",
+    "optimalScore": 5,
+    "optimalPath": ["rack", "pack", "pacy", "paty", "pity", "city"]
+  },
+  {
+    "firstWord": "play",
+    "secondWord": "ball",
+    "optimalScore": 6,
+    "optimalPath": ["play", "plan", "pian", "pial", "pill", "bill", "ball"]
+  },
+  {
+    "firstWord": "swan",
+    "secondWord": "lake",
+    "optimalScore": 7,
+    "optimalPath": [
+      "swan",
+      "span",
+      "spas",
+      "seas",
+      "leas",
+      "leks",
+      "leke",
+      "lake"
+    ]
+  },
+  {
+    "firstWord": "baby",
+    "secondWord": "step",
+    "optimalScore": 7,
+    "optimalPath": [
+      "baby",
+      "gaby",
+      "gabs",
+      "gaes",
+      "gees",
+      "sees",
+      "seep",
+      "step"
+    ]
+  },
+  {
+    "firstWord": "crab",
+    "secondWord": "cake",
+    "optimalScore": 7,
+    "optimalPath": [
+      "crab",
+      "crap",
+      "crop",
+      "coop",
+      "comp",
+      "camp",
+      "came",
+      "cake"
+    ]
+  },
+  {
+    "firstWord": "main",
+    "secondWord": "road",
+    "optimalScore": 5,
+    "optimalPath": ["main", "lain", "laid", "loid", "load", "road"]
+  },
+  {
+    "firstWord": "vote",
+    "secondWord": "veto",
+    "optimalScore": 5,
+    "optimalPath": ["vote", "rote", "rete", "rets", "vets", "veto"]
+  },
+  {
+    "firstWord": "lazy",
+    "secondWord": "loaf",
+    "optimalScore": 6,
+    "optimalPath": ["lazy", "lacy", "lack", "lock", "look", "loof", "loaf"]
+  },
+  {
+    "firstWord": "cold",
+    "secondWord": "play",
+    "optimalScore": 6,
+    "optimalPath": ["cold", "bold", "bolt", "boat", "blat", "plat", "play"]
+  },
+  {
+    "firstWord": "thug",
+    "secondWord": "life",
+    "optimalScore": 7,
+    "optimalPath": [
+      "thug",
+      "thus",
+      "taus",
+      "tams",
+      "lams",
+      "lame",
+      "lime",
+      "life"
+    ]
+  },
+  {
+    "firstWord": "crab",
+    "secondWord": "cake",
+    "optimalScore": 7,
+    "optimalPath": [
+      "crab",
+      "crap",
+      "crop",
+      "coop",
+      "comp",
+      "camp",
+      "came",
+      "cake"
+    ]
+  },
+  {
+    "firstWord": "quag",
+    "secondWord": "mire",
+    "optimalScore": 7,
+    "optimalPath": [
+      "quag",
+      "quad",
+      "duad",
+      "dual",
+      "dial",
+      "dirl",
+      "dire",
+      "mire"
+    ]
+  },
+  {
+    "firstWord": "halo",
+    "secondWord": "ring",
+    "optimalScore": 5,
+    "optimalPath": ["halo", "halt", "hant", "hang", "rang", "ring"]
+  },
+  {
+    "firstWord": "junk",
+    "secondWord": "mail",
+    "optimalScore": 5,
+    "optimalPath": ["junk", "hunk", "hank", "haik", "hail", "mail"]
+  },
+  {
+    "firstWord": "tuna",
+    "secondWord": "fish",
+    "optimalScore": 6,
+    "optimalPath": ["tuna", "luna", "lunt", "lint", "list", "fist", "fish"]
+  },
+  {
+    "firstWord": "stag",
+    "secondWord": "solo",
+    "optimalScore": 6,
+    "optimalPath": ["stag", "skag", "skas", "seas", "sels", "sols", "solo"]
+  },
+  {
+    "firstWord": "hunk",
+    "secondWord": "stud",
+    "optimalScore": 7,
+    "optimalPath": [
+      "hunk",
+      "huns",
+      "hues",
+      "hued",
+      "sued",
+      "sped",
+      "spud",
+      "stud"
+    ]
+  },
+  {
+    "firstWord": "wish",
+    "secondWord": "star",
+    "optimalScore": 7,
+    "optimalPath": [
+      "wish",
+      "fish",
+      "fist",
+      "fest",
+      "feat",
+      "fear",
+      "sear",
+      "star"
+    ]
+  },
+  {
+    "firstWord": "stop",
+    "secondWord": "sign",
+    "optimalScore": 8,
+    "optimalPath": [
+      "stop",
+      "step",
+      "seep",
+      "sees",
+      "sets",
+      "sits",
+      "sith",
+      "sigh",
+      "sign"
+    ]
+  },
+  {
+    "firstWord": "road",
+    "secondWord": "trip",
+    "optimalScore": 4,
+    "optimalPath": ["road", "toad", "trad", "trap", "trip"]
+  },
+  {
+    "firstWord": "gold",
+    "secondWord": "dust",
+    "optimalScore": 5,
+    "optimalPath": ["gold", "bold", "bolt", "dolt", "dost", "dust"]
+  },
+  {
+    "firstWord": "ants",
+    "secondWord": "hill",
+    "optimalScore": 5,
+    "optimalPath": ["ants", "aits", "ails", "fils", "fill", "hill"]
+  },
+  {
+    "firstWord": "cold",
+    "secondWord": "snow",
+    "optimalScore": 5,
+    "optimalPath": ["cold", "colt", "coot", "soot", "snot", "snow"]
+  },
+  {
+    "firstWord": "when",
+    "secondWord": "ever",
+    "optimalScore": 6,
+    "optimalPath": ["when", "then", "thee", "tyee", "tyer", "eyer", "ever"]
+  },
+  {
+    "firstWord": "hand",
+    "secondWord": "soap",
+    "optimalScore": 6,
+    "optimalPath": ["hand", "haed", "hoed", "hoer", "hoar", "soar", "soap"]
+  },
+  {
+    "firstWord": "exit",
+    "secondWord": "ramp",
+    "optimalScore": 9,
+    "optimalPath": [
+      "exit",
+      "emit",
+      "smit",
+      "shit",
+      "shin",
+      "sain",
+      "rain",
+      "rais",
+      "rams",
+      "ramp"
+    ]
+  },
+  {
+    "firstWord": "dawn",
+    "secondWord": "dusk",
+    "optimalScore": 4,
+    "optimalPath": ["dawn", "dawk", "dank", "dunk", "dusk"]
+  },
+  {
+    "firstWord": "blog",
+    "secondWord": "post",
+    "optimalScore": 5,
+    "optimalPath": ["blog", "blot", "boot", "bort", "port", "post"]
+  },
+  {
+    "firstWord": "with",
+    "secondWord": "hold",
+    "optimalScore": 5,
+    "optimalPath": ["with", "wite", "wile", "wild", "wold", "hold"]
+  },
+  {
+    "firstWord": "keep",
+    "secondWord": "lose",
+    "optimalScore": 5,
+    "optimalPath": ["keep", "keet", "leet", "lest", "lost", "lose"]
+  },
+  {
+    "firstWord": "true",
+    "secondWord": "love",
+    "optimalScore": 6,
+    "optimalPath": ["true", "tree", "tyee", "tyne", "tone", "lone", "love"]
+  },
+  {
+    "firstWord": "area",
+    "secondWord": "code",
+    "optimalScore": 6,
+    "optimalPath": ["area", "ares", "tres", "toes", "tods", "cods", "code"]
+  },
+  {
+    "firstWord": "iamb",
+    "secondWord": "poet",
+    "optimalScore": 7,
+    "optimalPath": [
+      "iamb",
+      "gamb",
+      "gamp",
+      "gasp",
+      "gast",
+      "past",
+      "post",
+      "poet"
+    ]
+  },
+  {
+    "firstWord": "dogs",
+    "secondWord": "bark",
+    "optimalScore": 4,
+    "optimalPath": ["dogs", "bogs", "bags", "bars", "bark"]
+  },
+  {
+    "firstWord": "fear",
+    "secondWord": "calm",
+    "optimalScore": 5,
+    "optimalPath": ["fear", "feal", "fell", "cell", "call", "calm"]
+  },
+  {
+    "firstWord": "high",
+    "secondWord": "note",
+    "optimalScore": 5,
+    "optimalPath": ["high", "sigh", "sith", "site", "nite", "note"]
+  },
+  {
+    "firstWord": "oaky",
+    "secondWord": "wine",
+    "optimalScore": 5,
+    "optimalPath": ["oaky", "caky", "cake", "cane", "cine", "wine"]
+  },
+  {
+    "firstWord": "jean",
+    "secondWord": "gene",
+    "optimalScore": 5,
+    "optimalPath": ["jean", "bean", "bead", "bend", "bene", "gene"]
+  },
+  {
+    "firstWord": "even",
+    "secondWord": "keel",
+    "optimalScore": 6,
+    "optimalPath": ["even", "eves", "eyes", "pyes", "pees", "peel", "keel"]
+  },
+  {
+    "firstWord": "nigh",
+    "secondWord": "near",
+    "optimalScore": 7,
+    "optimalPath": [
+      "nigh",
+      "sigh",
+      "sith",
+      "sits",
+      "sets",
+      "seas",
+      "sear",
+      "near"
+    ]
+  },
+  {
+    "firstWord": "josh",
+    "secondWord": "joke",
+    "optimalScore": 4,
+    "optimalPath": ["josh", "posh", "pose", "poke", "joke"]
+  },
+  {
+    "firstWord": "trap",
+    "secondWord": "door",
+    "optimalScore": 5,
+    "optimalPath": ["trap", "trop", "prop", "poop", "poor", "door"]
+  },
+  {
+    "firstWord": "vale",
+    "secondWord": "veil",
+    "optimalScore": 5,
+    "optimalPath": ["vale", "bale", "ball", "bail", "vail", "veil"]
+  },
+  {
+    "firstWord": "math",
+    "secondWord": "whiz",
+    "optimalScore": 5,
+    "optimalPath": ["math", "matt", "watt", "wait", "whit", "whiz"]
+  },
+  {
+    "firstWord": "wham",
+    "secondWord": "boom",
+    "optimalScore": 6,
+    "optimalPath": ["wham", "cham", "chat", "coat", "boat", "boot", "boom"]
+  },
+  {
+    "firstWord": "very",
+    "secondWord": "much",
+    "optimalScore": 6,
+    "optimalPath": ["very", "vary", "vars", "mars", "macs", "mach", "much"]
+  },
+  {
+    "firstWord": "stay",
+    "secondWord": "woke",
+    "optimalScore": 7,
+    "optimalPath": [
+      "stay",
+      "stat",
+      "seat",
+      "sent",
+      "sene",
+      "sone",
+      "soke",
+      "woke"
+    ]
+  },
+  {
+    "firstWord": "soft",
+    "secondWord": "ware",
+    "optimalScore": 4,
+    "optimalPath": ["soft", "sort", "sore", "wore", "ware"]
+  },
+  {
+    "firstWord": "folk",
+    "secondWord": "song",
+    "optimalScore": 4,
+    "optimalPath": ["folk", "holk", "honk", "hong", "song"]
+  },
+  {
+    "firstWord": "rain",
+    "secondWord": "drop",
+    "optimalScore": 5,
+    "optimalPath": ["rain", "gain", "grin", "grip", "drip", "drop"]
+  },
+  {
+    "firstWord": "grok",
+    "secondWord": "know",
+    "optimalScore": 5,
+    "optimalPath": ["grok", "grow", "glow", "slow", "snow", "know"]
+  },
+  {
+    "firstWord": "palm",
+    "secondWord": "read",
+    "optimalScore": 5,
+    "optimalPath": ["palm", "halm", "helm", "held", "head", "read"]
+  },
+  {
+    "firstWord": "gnaw",
+    "secondWord": "bite",
+    "optimalScore": 6,
+    "optimalPath": ["gnaw", "gnat", "goat", "boat", "bott", "bitt", "bite"]
+  },
+  {
+    "firstWord": "verb",
+    "secondWord": "noun",
+    "optimalScore": 7,
+    "optimalPath": [
+      "verb",
+      "herb",
+      "hern",
+      "horn",
+      "born",
+      "boon",
+      "noon",
+      "noun"
+    ]
+  },
+  {
+    "firstWord": "gold",
+    "secondWord": "leaf",
+    "optimalScore": 4,
+    "optimalPath": ["gold", "goad", "load", "lead", "leaf"]
+  },
+  {
+    "firstWord": "yoke",
+    "secondWord": "yolk",
+    "optimalScore": 4,
+    "optimalPath": ["yoke", "hoke", "hole", "holk", "yolk"]
+  },
+  {
+    "firstWord": "half",
+    "secondWord": "moon",
+    "optimalScore": 5,
+    "optimalPath": ["half", "hall", "mall", "moll", "mool", "moon"]
+  },
+  {
+    "firstWord": "gene",
+    "secondWord": "pool",
+    "optimalScore": 5,
+    "optimalPath": ["gene", "gens", "pens", "pons", "poos", "pool"]
+  },
+  {
+    "firstWord": "lava",
+    "secondWord": "ooze",
+    "optimalScore": 5,
+    "optimalPath": ["lava", "lave", "laze", "daze", "doze", "ooze"]
+  },
+  {
+    "firstWord": "club",
+    "secondWord": "soda",
+    "optimalScore": 6,
+    "optimalPath": ["club", "slub", "slur", "sour", "sous", "sods", "soda"]
+  },
+  {
+    "firstWord": "itch",
+    "secondWord": "skin",
+    "optimalScore": 9,
+    "optimalPath": [
+      "itch",
+      "etch",
+      "each",
+      "bach",
+      "back",
+      "pack",
+      "paik",
+      "pain",
+      "sain",
+      "skin"
+    ]
+  }
+]
